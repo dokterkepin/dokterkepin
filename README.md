@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dokterkepin
-- 👀 I’m interested in Web development And UI Design
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Web Project
+- 👀 I’m interested in Sofware and Mobile App 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking for Internship
 - 📫 Contact Me
 <!---
 dokterkepin/dokterkepin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
