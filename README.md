@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dokterkepin
-- 👀 I’m interested in Software and Mobile App 
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Robotic
 - 💞️ I’m looking for Internship
 - 📫 Contact Me
