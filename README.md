@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dokterkepin
-- 👀 I’m interested in Sofware and Mobile App 
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Software and Mobile App 
+- 🌱 I’m currently learning Robotic
 - 💞️ I’m looking for Internship
 - 📫 Contact Me
 <!---
